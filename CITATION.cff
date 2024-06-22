@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Vieira de Souza
+    given-names: Carlos Alberto 
+  - family-names: Lima Assis
+    given-names: Carlos Eduardo 
+  - family-names: de Freitas Mendes Losque
+    given-names: Laura 
+  - family-names:  Horta de Souza
+    given-names: Luana 
+  - family-names: Luz de Sales
+    given-names: Vitor 
+  - family-names: Oyama Moura
+    given-names: Yan
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -30,15 +30,18 @@ authors:
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Sistemas de informação"
+  - "Automatização"
+  - "Varejo"
+  - "On-line"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t1-g20varejoonline"
+title: "Projeto: Aplicações para Processos de Negócios Varejo Online"
 abstract: |
     "
-    Breve descrição do projeto
+    Este trabalho explora as vantagens da automatização de um sistema de varejo on-line para estabelecimentos, que atualmente operam exclusivamente no formato físico. Diante do cenário digital em constante expansão, a integração de uma plataforma online proporciona inúmeras oportunidades para aprimorar a experiência do cliente, ampliar o alcance de mercado e otimizar operações. Nosso objetivo é destacar os benefícios que essa transição oferece, juntamente com a capacidade de atrair novos clientes e fornecer conveniência de compra. Logo, compreender a importância da presença online, e evidenciar como essa transição pode resultar em ganhos significativos para o varejo tradicional.
+
     "
 ...
