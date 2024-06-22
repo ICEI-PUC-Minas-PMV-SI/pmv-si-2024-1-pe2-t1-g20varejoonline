@@ -1,16 +1,16 @@
-# Nome do projeto
+# Projeto: Aplicações para Processos de Negócios Varejo Online
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+&nbsp; Este trabalho explora as vantagens da automatização de um sistema de varejo on-line para estabelecimentos, que atualmente operam exclusivamente no formato físico. Diante do cenário digital em constante expansão, a integração de uma plataforma online proporciona inúmeras oportunidades para aprimorar a experiência do cliente, ampliar o alcance de mercado e otimizar operações. Nosso objetivo é destacar os benefícios que essa transição oferece, juntamente com a capacidade de atrair novos clientes e fornecer conveniência de compra. Logo, compreender a importância da presença online, e evidenciar como essa transição pode resultar em ganhos significativos para o varejo tradicional.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Carlos Alberto Vieira de Souza
+* Carlos Eduardo Lima Assis
+* Laura de Freitas Mendes Losque
+* Luana Horta de Souza
+* Vitor Luz de Sales
+* Yan Oyama Moura
 
 ## Professor
 
-* Nome completo do professor
+* Eveline Alonso Veloso
