@@ -13,20 +13,10 @@ authors:
     given-names: Vitor 
   - family-names: Oyama Moura
     given-names: Yan
-    
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
     given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
-  
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
